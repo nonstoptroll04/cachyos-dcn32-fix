@@ -16,7 +16,7 @@ This kernel is based on:
 - Compiler: Clang 22.1.8
 - Linker: LLD 22.1.8
 
-Kernel release:
+Kernel name:
 
 ```text
 linux-cachyos-dcn32
