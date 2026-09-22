@@ -20,3 +20,8 @@ Kernel name:
 
 ```text
 linux-cachyos-dcn32
+
+Checksums:
+
+e60d754e68a67370fa761fd6c0242b4beadb3198b06fc16930bcb04c96201be7  linux-cachyos-dcn32-7.3.rc3-1-x86_64.pkg.tar.zst
+3fc9c7aef1176a6160aaa682a3fd0365a8edac4f8e09c62a0062a39a1d747dfd  linux-cachyos-dcn32-headers-7.3.rc3-1-x86_64.pkg.tar.zst
