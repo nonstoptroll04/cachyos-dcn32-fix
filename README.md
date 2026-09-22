@@ -19,4 +19,4 @@ This kernel is based on:
 Kernel release:
 
 ```text
-7.3.0-rc3-1-dcn32-cachyos-rc
+linux-cachyos-dcn32
